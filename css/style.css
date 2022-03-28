@@ -24,3 +24,7 @@ body{
     color: red;
 }
 
+.border-menu{
+    border-right: 1px solid white;
+}
+
